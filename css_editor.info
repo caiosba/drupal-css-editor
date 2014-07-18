@@ -1,0 +1,5 @@
+name = CSS Editor
+description = Customize your CSS directly from the browser.
+package = CSS Editor
+core = 7.x
+configure = admin/config/user-interface/css-editor
