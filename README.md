@@ -5,7 +5,7 @@ This module allows administrators to customize a theme's CSS through
 the browser, using a rich text editor with syntax highlighting and
 live preview.
 
-The module has just one option in its configuration page: you choose
+The module has just one option in its configuration page: you can choose
 which themes can use the custom CSS feature. So, on the settings page
 of each theme enabled to use this feature, it will be displayed a
 textarea where the admin can type custom CSS code. He can choose to
