@@ -17,6 +17,6 @@ default one. The custom CSS code is injected after all other CSS.
 
 Check [this video](http://ca.ios.ba/files/drupal/csseditor.ogv) to understand better how it works.
 
-Check the module on [Github](https://github.com/caiosba/drupal-css-editor).
+Check the module on [Drupal.org](https://www.drupal.org/project/demo_tour).
 
 This module was sponsored by [Meedan](http://meedan.org).
